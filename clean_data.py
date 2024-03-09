@@ -45,6 +45,7 @@ def create_key(df, n):
     return df
 
 
+
 def generate_cleaned_column(df):
     """Crea la columna 'cleaned' en el DataFrame"""
 
